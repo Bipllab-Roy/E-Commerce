@@ -4,7 +4,8 @@
 
 @utility container {
   margin-inline: auto;
-  max-width: 1170px;
+  padding-inline: 24px;
+  max-width: 1280px;
 }
 
 @theme{
@@ -14,5 +15,11 @@
   --font-inter: 'Inter', sans-serif;
 
   /* colors */
-  --color-button:#FAFAFA;
+  --color-button: #000000;
+  --color-text: #FAFAFA;
+  --color-button2: #DB4444;
+  --color-secondary: #F5F5F5;
+  --color-hoverButton: #E07575;
+  --color-hoverButton2: #A0BCE0;
+
 }
